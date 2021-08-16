@@ -34,8 +34,8 @@ const imgAPI = {
     'https://via.placeholder.com/1050x700/ffc4c4/757575',
     'https://via.placeholder.com/1050x700/ffc4c4/757575',
     'https://via.placeholder.com/600x341/cac142/FFFFFF',
-    '/images/fd/banner-illustration.jpg',
-    '/images/fd/tools.png'
+    '/fd-gh-page/images/fd/banner-illustration.jpg',
+    '/fd-gh-page/images/fd/tools.png'
   ]
 }
 
