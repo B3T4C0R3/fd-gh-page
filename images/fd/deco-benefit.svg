@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="582.782" height="166.586" viewBox="0 0 582.782 166.586">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc100"/>
+      <stop offset="1" stop-color="#e20613"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4c7ac5"/>
+      <stop offset="1" stop-color="#004f94"/>
+    </radialGradient>
+  </defs>
+  <g id="Page-1" transform="translate(-0.79 -0.686)">
+    <g id="Group-2" transform="translate(-143 -88)">
+      <g id="Group-3" transform="translate(132.624 70.912)">
+        <g id="g10" transform="translate(11.166 17.773)">
+          <g id="g12" transform="translate(0)">
+            <g id="g32" transform="translate(32.867 19.543)">
+              <g id="Group_16" data-name="Group 16">
+                <path id="path46" d="M1251.662-2185.649a44.344,44.344,0,0,1-8.979,32.878c-12.256,16.082-19.39,34.128-6.22,45.385s36.4-7.682,21.219-28.768c0,0,16.645,12.329,8.414,33.771,0,0,26.006-30.018-14.434-83.267" transform="translate(-1229.412 2185.649)" fill="url(#radial-gradient)"/>
+              </g>
+            </g>
+            <g id="g48">
+              <g id="Group_16-2" data-name="Group 16">
+                <path id="path62" d="M942.42-2465.087s7.487,11.7-2.955,31.036-22.658,22.556-21.279,34.767c0,0-6.108-15.6,6.3-31.715,0,0-14.777,7.463-18.717,35.785s20.491,41.72,35.07,43.416,33.166-3.675,32.772-21.821c0,0-9.273,19.726-32.837,11.307a17.507,17.507,0,0,1-11.44-15.946,43.179,43.179,0,0,1,8.747-27.132c4.926-6.953,28.174-31.037,4.335-59.7" transform="translate(-905.349 2465.087)" fill="url(#radial-gradient)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="g10-2" data-name="g10" transform="translate(516.166 70.773)">
+          <g id="g12-2" data-name="g12" transform="translate(0)">
+            <g id="g32-2" data-name="g32" transform="translate(32.867 19.543)">
+              <g id="Group_16-3" data-name="Group 16">
+                <path id="path46-2" data-name="path46" d="M1251.662-2185.649a44.344,44.344,0,0,1-8.979,32.878c-12.256,16.082-19.39,34.128-6.22,45.385s36.4-7.682,21.219-28.768c0,0,16.645,12.329,8.414,33.771,0,0,26.006-30.018-14.434-83.267" transform="translate(-1229.412 2185.649)" fill="url(#radial-gradient-3)"/>
+              </g>
+            </g>
+            <g id="g48-2" data-name="g48">
+              <g id="Group_16-4" data-name="Group 16">
+                <path id="path62-2" data-name="path62" d="M942.42-2465.087s7.487,11.7-2.955,31.036-22.658,22.556-21.279,34.767c0,0-6.108-15.6,6.3-31.715,0,0-14.777,7.463-18.717,35.785s20.491,41.72,35.07,43.416,33.166-3.675,32.772-21.821c0,0-9.273,19.726-32.837,11.307a17.507,17.507,0,0,1-11.44-15.946,43.179,43.179,0,0,1,8.747-27.132c4.926-6.953,28.174-31.037,4.335-59.7" transform="translate(-905.349 2465.087)" fill="url(#radial-gradient-3)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
